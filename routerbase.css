@@ -1,0 +1,149 @@
+body { background-color: black;}
+h1{color: white;
+text-align: center;}
+h5{
+    color: lightgray;
+    text-align: justify;
+}
+/* Classe nav bar*/
+.apo-btn {
+        background-color:  #0040ff;
+    color: white;
+    height: 40px;
+    font-size: 15px;
+    border: 0px solid #1a8cff;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+/*Classe présentation*/
+.apo-pres{
+    color:lightgray;
+        text-align: center;
+    }
+
+/*Classe titre présentation */
+.apo-adnen{
+    color:
+    #0040ff;
+        text-align: center;
+        font-family: 'Finger Paint', cursive;
+    }
+
+/*Classe footer*/
+.apo-footer{
+color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border: 1 px solid white;
+}
+
+/* Classe caroussel*/
+.apo-carou{
+    height: 200x;
+}
+
+
+/* Classe cards*/
+.apo-card{
+    background-color: darkgrey;
+    color:black;
+    margin: 5px;
+    display: inline-block;
+}
+.apo-nomcard{
+    color: darkblue;
+    text-align: center;
+    font-size: 30px;
+}
+.apo-elem-card{
+    font-weight: bold;
+    color: black;
+}
+
+.apo-elem-form{
+   
+    color: white;
+}
+
+/* Classe panier*/
+.apo-panier{
+    background-color: darkgrey;
+    margin: 5px;
+    border: 1px solid white;
+    text-align: center;
+    width: 300px;
+    color: white;
+    font-size: 20px;
+}
+.apo-span { font-size: 25px;
+color: darkblue;
+border: 1px solid darkgray;
+background-color: white;
+}
+
+/* Classe afficher le total span*/
+.apo-total{
+    color: white;
+}
+
+/* Classe données postales dans le store */
+.apo-postale{
+    background-color: pink;
+    margin-top: 60px;
+    color: black;
+}
+
+/* Groupe Classes Formulaire de contact -----------------*/
+
+/* Classe color*/
+.apo-form-contact { 
+font-size: 25px;
+color: black;
+border: 1px solid white;
+background-color:darkgrey;
+text-align: center;
+width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+}
+ .apo-form-contact-corps{
+     width: 700px;
+     display: block;
+    margin-left: auto;
+    margin-right: auto 
+ }
+
+ /* Classe liste commentaires livre d'or*/
+ .apo-liste-livor {
+
+    border: 1px solid white;
+    background-color: darkgrey;
+    margin: 5px;
+    color: black;
+ }
+
+ .apo-num-list{
+    border: 0px solid white;
+    border-radius: 2px;
+    background-color: lightblue;
+    margin: 5px;
+    color: black;
+    width: 50px;
+    text-align: center;
+    padding: 5px;
+ }
+
+ .apo-num-input{
+    border: 0px solid white;
+    border-radius: 2px;
+    background-color: #1a8cff;
+    margin: 5px;
+    color:white;
+    text-align: center;
+    height: 40px;
+    padding: 5px;
+    width: auto;
+ }
